@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236158546377",
+    "project_id": "a-m-social-app-fb0ba",
+    "storage_bucket": "a-m-social-app-fb0ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236158546377:android:c7c7db81683b332e0c7818",
+        "android_client_info": {
+          "package_name": "com.example.a_m_social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236158546377-lvba2panioem5rb3j5k4iv0ubejbo2pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsWzMuvomnhbSi6j4J7T72oQJ829cs7Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236158546377-lvba2panioem5rb3j5k4iv0ubejbo2pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
